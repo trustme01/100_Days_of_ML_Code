@@ -1,15 +1,13 @@
 # 100 Days Of ML Code
 
-### Day 0: September 13, 2018
-##### (delete me or comment me out)
+### Day 0: September 14, 2018
+**Today's Progress**: Reading 'Hands on Machine Learning" by Aurelien Geron and setup my machine to focus on chapter 2 the 'End-to-End' project. 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** 
+**Thoughts:** I knew ML would be a challenge, but with the available resouces do help. 
 
 **Link to work:** [](http://www.github.com)
 
-### Day 1: September 14, 2018
+### Day 1: September 15, 2018
 
 **Today's Progress**: I've gone through many exercises on KhanAcademy.
 
